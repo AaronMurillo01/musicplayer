@@ -1,7 +1,7 @@
 
 # 🎶 Music Player App
 
-A modern music player application built using **JavaScript**, **HTML**, and **CSS**, allowing users to play their favorite songs with a sleek and responsive interface.
+A modern music player that allow users to play their favorite songs with a sleek and responsive interface.
 
 ## 🚀 Features
 
