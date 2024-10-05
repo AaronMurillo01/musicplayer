@@ -14,11 +14,6 @@ A modern music player application built using **JavaScript**, **HTML**, and **CS
 - 🖼️ Album artwork display for the current track.
 - 🎛️ Intuitive progress bar showing track position.
 
-## 📸 Screenshots
-
-![Music Player Screenshot](https://your-image-link.com)
-_Add a screenshot of your app to show users what it looks like._
-
 ## 🛠️ Installation and Setup
 
 ### Prerequisites
